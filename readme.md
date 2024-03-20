@@ -3,7 +3,7 @@
 Creates a picture using stable diffusion 1.5<br>
 Everything is configurable within the main file and environment variables<br>
 After running once you can run always offline, the first time is to download the model<br>
-THe examples bellow were made with CPU i5-1035G1 & 6GB of RAM
+The examples bellow were made with CPU i5-1035G1 & 6GB of RAM
 
 ## Examples made with this code:
 <table style="margin:auto; margin:auto; text-align:center; align-items:center; justify-content:center;">

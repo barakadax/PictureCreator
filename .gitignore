@@ -1,0 +1,7 @@
+__pycache__/
+.pytest_cache/
+clean*.png
+enhanced*.png
+generated*.png
+grey_scaled*.png
+negative*.png

@@ -23,4 +23,4 @@ duplicate, ugly, monochrome, horror, geometry, mutation, disgusting, nsfw, nude,
     # Extra abilities
     grey_scaled_images = imageAgent.grey_scaler(enhanced_images)
     negative_images = imageAgent.negative(enhanced_images)
-    without_specific_color = imageAgent.hide_specific_color(enhanced_images, [255, 255, 255])
+    without_specific_color = imageAgent.hide_specific_color(enhanced_images, [255, 255, 255])  # color as configuration/input...

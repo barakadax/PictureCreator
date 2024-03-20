@@ -1,7 +1,7 @@
 import torch
 import random
+from PIL import Image
 from torch import Generator
-from PIL import ImageEnhance, Image
 from entities.imageRequest import ImageRequest
 from configs.imageGen import ImageGeneratorConfig
 from diffusers import AutoPipelineForText2Image, EulerDiscreteScheduler
